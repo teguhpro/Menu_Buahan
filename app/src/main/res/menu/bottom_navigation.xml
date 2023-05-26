@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+        <item
+            android:id="@+id/menu_home"
+            android:title="Home"
+            android:icon="@drawable/homered"/>
+
+        <item
+            android:id="@+id/menu_buah"
+            android:title="Buahan"
+            android:icon="@drawable/ic_blender"/>
+
+        <item
+            android:id="@+id/menu_subcription"
+            android:title="Subcription"
+            android:icon="@drawable/ic_subscriptions"/>
+
+        <item
+            android:id="@+id/menu_setting"
+            android:title="Setting"
+            android:icon="@drawable/ic_baseline_settings_24"/>
+
+
+</menu>
